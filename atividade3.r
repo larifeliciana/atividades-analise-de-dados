@@ -41,7 +41,7 @@ paste0("Maria: ", maria_score)
 #As notas variam de 0 a 10 e os candidatos que não realizaram a prova estão
 #com NA nos respectivos campos. De posse dos dados, responda as perguntas abaixo.
 
-load("vetor.RData")
+load("data/vetor.RData")
 
 
 #Qual foi a média das notas ?

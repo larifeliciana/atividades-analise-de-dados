@@ -82,7 +82,7 @@ print(c("Q9. R): ", lista$Temp))
 # em códigos através das linhas e os dias através das colunas. Diante de 
 #tais dados,resolva as questões abaixo.
 
-load("chuvas.RData")
+load("data/chuvas.RData")
 
 
 #Qual a média do volume diário de chuvas do período observado?
